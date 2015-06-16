@@ -1,0 +1,22 @@
+{
+  "name": "site",
+  "version": "1.0.0",
+  "description": "Meadowlark site",
+  "main": "meadowlark.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cabsanchez/meadowlark.git"
+  },
+  "author": "cabsanchez@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cabsanchez/meadowlark/issues"
+  },
+  "dependencies": {
+    "express": "~4.12.4",
+    "express3-handlebars": "~0.5.2"
+  }
+}
